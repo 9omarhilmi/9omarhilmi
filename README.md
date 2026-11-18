@@ -18,5 +18,6 @@ If you find my projects or tools helpful, consider sponsoring my open-source jou
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Top Languages
 ![Omar's GitHub stats](https://vercel.app)
+![Top Langs](https://vercel.app)
