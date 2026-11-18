@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👋 Hi there, I'm Omar Hilmy!
 
-<!--
-**9omarhilmi/9omarhilmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Developer** focused on building open-source tools, libraries, and helpful resources for the developer community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- 🌱 Building and maintaining open-source projects.
+- 💡 Exploring new technologies and solving real-world problems through code.
+- 🤝 Collaborating with developers and contributing to the open-source ecosystem.
+
+---
+
+### 💖 Support My Work
+If you find my projects or tools helpful, consider sponsoring my open-source journey on GitHub! Your support helps me dedicate more time to maintaining projects and creating new features.
+
+[![Sponsor Omar Hilmy](https://shields.io)](https://github.com)
+
+---
+
+### 📊 GitHub Stats
+![Omar's GitHub stats](https://vercel.app)
